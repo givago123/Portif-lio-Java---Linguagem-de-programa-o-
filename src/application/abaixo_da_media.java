@@ -6,6 +6,8 @@ import java.util.Scanner;
 public class abaixo_da_media {
 
 	public static void main(String[] args) {
+		
+		//Treinando com exercicios curso de logica de programaçao//
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
